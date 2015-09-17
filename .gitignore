@@ -4,3 +4,4 @@ tags
 *.pyc
 *.swp
 benchrun_daemon.conf
+.idea
